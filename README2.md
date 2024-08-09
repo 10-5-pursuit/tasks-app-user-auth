@@ -1,7 +1,7 @@
 # Part 2: Adding a Users Model and Setting Up Authentication
 
 
-Fork and Clone if you need the starter code: [Task Backend / One Model](https://github.com/10-1-pursuit/task-management-app)
+Fork and Clone if you need the starter code: [Task Backend / One Model](https://github.com/10-5-pursuit/express-tasks)
 
 First install the necessary packages:
 - Run `npm i jsonwebtoken bcrypt`
